@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-01-04 20:43:23
- * @LastEditTime: 2022-01-04 21:06:11
+ * @LastEditTime: 2022-01-05 11:36:03
 -->
 
 # Java SE Summary
@@ -113,8 +113,11 @@ float
 for	
     Create a for loop
 
-goto	Not in use, and has no function
-if	Makes a conditional statement
+goto	
+    Not in use, and has no function
+
+if	
+    Makes a conditional statement
 implements	Implements an interface
 import	Used to import a package, class or interface
 instanceof	Checks whether an object is an instance of a specific class or an interface
