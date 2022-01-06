@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-01-04 20:43:23
- * @LastEditTime: 2022-01-05 11:36:03
+ * @LastEditTime: 2022-01-06 12:29:33
 -->
 
 # Java SE Summary
@@ -118,21 +118,42 @@ goto
 
 if	
     Makes a conditional statement
-implements	Implements an interface
-import	Used to import a package, class or interface
-instanceof	Checks whether an object is an instance of a specific class or an interface
-int	A data type that can store whole numbers from -2147483648 to 2147483647
-interface	Used to declare a special type of class that only contains abstract methods
+
+implements	
+Implements an interface
+
+import	
+Used to import a package, class or interface
+
+instanceof	
+Checks whether an object is an instance of a specific class or an interface
+
+int	
+A data type that can store whole numbers from -2147483648 to 2147483647
+
+interface	
+Used to declare a special type of class that only contains abstract methods
+
 long	A data type that can store whole numbers from -9223372036854775808 to 9223372036854775808
+
 module	Declares a module. New in Java 9
+
 native	Specifies that a method is not implemented in the same Java source file (but in another language)
+
 new	Creates new objects
+
 package	Declares a package
+
 private	An access modifier used for attributes, methods and constructors, making them only accessible within the declared class
+
 protected	An access modifier used for attributes, methods and constructors, making them accessible in the same package and subclasses
-public	An access modifier used for classes, attributes, methods and constructors, making them accessible by any other class
+
+ublic	An access modifier used for classes, attributes, methods and constructors, making them accessible by any other class
+
 requires	Specifies required libraries inside a module. New in Java 9
+
 return	Finished the execution of a method, and can be used to return a value from a method
+
 short	A data type that can store whole numbers from -32768 to 32767
 static	A non-access modifier used for methods and attributes. Static methods/attributes can be accessed without creating an object of a class
 strictfp	Restrict the precision and rounding of floating point calculations
