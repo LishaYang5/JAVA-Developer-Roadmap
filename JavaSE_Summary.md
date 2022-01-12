@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-01-04 20:43:23
- * @LastEditTime: 2022-01-06 12:29:33
+ * @LastEditTime: 2022-01-12 11:46:13
 -->
 
 # Java SE Summary
@@ -120,16 +120,16 @@ if
     Makes a conditional statement
 
 implements	
-Implements an interface
+    Implements an interface
 
 import	
-Used to import a package, class or interface
+    Used to import a package, class or interface
 
 instanceof	
-Checks whether an object is an instance of a specific class or an interface
+    Checks whether an object is an instance of a specific class or an interface
 
 int	
-A data type that can store whole numbers from -2147483648 to 2147483647
+    A data type that can store whole numbers from -2147483648 to 2147483647
 
 interface	
 Used to declare a special type of class that only contains abstract methods
