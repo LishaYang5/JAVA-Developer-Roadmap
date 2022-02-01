@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-01-04 20:43:23
- * @LastEditTime: 2022-01-20 15:01:19
+ * @LastEditTime: 2022-02-01 16:43:12
 -->
 
 # Java SE Summary
@@ -140,13 +140,17 @@ long
 module	
     Declares a module. New in Java 9
 
-native	Specifies that a method is not implemented in the same Java source file (but in another language)
+native	
+    Specifies that a method is not implemented in the same Java source file (but in another language)
 
-new	Creates new objects
+new	
+    Creates new objects
 
-package	Declares a package
+package	
+    Declares a package
 
-private	An access modifier used for attributes, methods and constructors, making them only accessible within the declared class
+private	
+    An access modifier used for attributes, methods and constructors, making them only accessible within the declared class
 
 protected	An access modifier used for attributes, methods and constructors, making them accessible in the same package and subclasses
 
