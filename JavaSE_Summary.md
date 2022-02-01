@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-01-04 20:43:23
- * @LastEditTime: 2022-02-01 16:43:12
+ * @LastEditTime: 2022-02-02 09:30:34
 -->
 
 # Java SE Summary
@@ -152,13 +152,17 @@ package
 private	
     An access modifier used for attributes, methods and constructors, making them only accessible within the declared class
 
-protected	An access modifier used for attributes, methods and constructors, making them accessible in the same package and subclasses
+protected	
+    An access modifier used for attributes, methods and constructors, making them accessible in the same package and subclasses
 
-ublic	An access modifier used for classes, attributes, methods and constructors, making them accessible by any other class
+ublic	
+    An access modifier used for classes, attributes, methods and constructors, making them accessible by any other class
 
-requires	Specifies required libraries inside a module. New in Java 9
+requires	
+    Specifies required libraries inside a module. New in Java 9
 
-return	Finished the execution of a method, and can be used to return a value from a method
+return	
+    Finished the execution of a method, and can be used to return a value from a method
 
 short	A data type that can store whole numbers from -32768 to 32767
 static	A non-access modifier used for methods and attributes. Static methods/attributes can be accessed without creating an object of a class
