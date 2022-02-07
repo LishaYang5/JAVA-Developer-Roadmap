@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2022-01-04 20:43:23
- * @LastEditTime: 2022-02-02 09:30:34
+ * @LastEditTime: 2022-02-07 10:21:13
 -->
 
 # Java SE Summary
@@ -164,9 +164,14 @@ requires
 return	
     Finished the execution of a method, and can be used to return a value from a method
 
-short	A data type that can store whole numbers from -32768 to 32767
-static	A non-access modifier used for methods and attributes. Static methods/attributes can be accessed without creating an object of a class
-strictfp	Restrict the precision and rounding of floating point calculations
+short	
+    A data type that can store whole numbers from -32768 to 32767
+
+static	
+    A non-access modifier used for methods and attributes. Static methods/attributes can be accessed without creating an object of a class
+
+strictfp	
+    Restrict the precision and rounding of floating point calculations
 super	Refers to superclass (parent) objects
 switch	Selects one of many code blocks to be executed
 synchronized	A non-access modifier, which specifies that methods can only be accessed by one thread at a time
